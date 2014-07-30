@@ -1,0 +1,3 @@
+_id
+properties.$first_name
+properties.$last_name
