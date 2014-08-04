@@ -1,1 +1,1 @@
-{"events": { $elemMatch: { event: "Added Content", "properties.time": { $gte: 1404149991 } } }}
+{"events": { $elemMatch: { "event": "Added Content", "properties.time": { $gte: 1404149991 } } }}

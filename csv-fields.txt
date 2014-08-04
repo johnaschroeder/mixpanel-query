@@ -1,3 +1,18 @@
 _id
+zimid
+email
+emailed_content
 properties.$first_name
 properties.$last_name
+properties.$browser
+properties.$country_code
+properties.$created
+properties.$os
+properties.App Loaded Count
+properties.Content Count: All
+properties.Content Count: Files
+properties.Content Count: Images
+properties.Content Count: Note
+properties.Content Count: Webpages
+properties.joined
+properties.location
